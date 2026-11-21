@@ -12,6 +12,8 @@ Needs macOS 14 or later and Logic Pro.
 
 1. Open the DMG and drag **Logi Live Bridge** onto **Applications**.
 2. Open Logi Live Bridge from Applications.
-3. Follow the setup guide. It explains every permission, opens the right System Settings page in one click and shows the code that pairs the iPad.
+3. Follow the setup guide. It explains every permission, opens the right System Settings page in one click, sets up Logic Pro's control surfaces with one button and shows the code that pairs the iPad.
+
+New versions show up in the app itself: click **Update and Restart**.
 
 The iPad app isn't publicly available yet.
